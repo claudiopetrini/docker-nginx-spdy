@@ -7,6 +7,7 @@ COPY install.sh .
 # Entering inside the nginx folder
 
 # Configuring
+RUN chmod +x install.sh
 RUN ./install.sh
 
 EXPOSE 80
