@@ -1,5 +1,5 @@
 # nginx version
-NGINX_VERSION=1.7.11
+NGINX_VERSION=1.7.12
 
 # OpenSSL version
 OPENSSL_VERSION=1.0.2a
