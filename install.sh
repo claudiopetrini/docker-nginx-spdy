@@ -1,8 +1,8 @@
 # nginx version
-NGINX_VERSION=1.7.12
+NGINX_VERSION=1.8.0
 
 # OpenSSL version
-OPENSSL_VERSION=1.0.2a
+OPENSSL_VERSION=1.0.2c
 
 #Directories
 CURRENT_DIR=$(pwd)
